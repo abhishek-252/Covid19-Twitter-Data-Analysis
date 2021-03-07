@@ -7,7 +7,7 @@ TASKS PERFORMED :
 
 2) Which hashtag trended (Hashtags are words or phrases beginning with # eg #COVID) .
 
-3)Which Twitter Handler dominated the conversation on Twitter .
+3) Which Twitter Handler dominated the conversation on Twitter .
 
 4) Exploring which tweet is most retweeted.
 
@@ -15,10 +15,10 @@ TASKS PERFORMED :
 
 6) Exploring weekday based trend of tweets.
 
-7)SENTIMENT ANALYSIS :Performing sentiment analysis after text cleaning using VADER Sentiment  Analysis.
+7) SENTIMENT ANALYSIS :Performing sentiment analysis after text cleaning using VADER Sentiment  Analysis.
   
-8)Analyzing how the sentiment of tweets changed as months passed .
+8) Analyzing how the sentiment of tweets changed as months passed .
 
-9)Analyzing how the sentiment of tweets changed with weekdays .
+9) Analyzing how the sentiment of tweets changed with weekdays .
 
-10)Visualzing positive and negative tweets by separate wordclouds for each category respectively .
+10) Visualzing positive and negative tweets by separate wordclouds for each category respectively .
